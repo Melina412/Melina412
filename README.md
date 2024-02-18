@@ -1,21 +1,37 @@
-### Hi
+# hi
 
-<!--
-**Melina412/Melina412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 20px">
+    <div>
+        <img src="https://media1.tenor.com/m/qNje02cITKkAAAAd/hi-goat.gif" alt="hi" style="width:100%; border-radius: 10px" >
+    </div>
+    <div>
+    <h3>✨ Welcome to my GitHub page 💫 </h3>
+        <p>
+I've been diving into the world of programming for about a year now, and I'm excited to say I recently became a certified MERN Full Stack Developer. Currently, I'm on the lookout for opportunities in Web Development and/or Data.
 
-Here are some ideas to get you started:
+While I can handle both ends of the stack, I must confess: I've got a soft spot for the server. There's just something about it that clicks with me more than frontend work.
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="grid-column: 1/3">
 
- ## My Stack
+<p>Before my deep dive into full stack development, I dabbled a bit in Python, igniting my passion for programming and data analysis/data science. Ideally, I'd love to dive deeper into machine learning/AI, but hey, we're taking it one step at a time, right?
+
+Speaking of stepping into new territories, cybersecurity has always intrigued me, even though I'm a total noob here 😅 
+
+Right now, I'm knee-deep in exploring Numpy and Pandas, and soon I'll be proudly flashing a certificate for mastering the basics.
+
+Apart from that I continue to learn new skills in web development through a group project, where we're exploring TypeScript and Next.js to build our first app with those.
+
+I'm always up for learning new technologies – seriously, throw anything my way, and I'll dive in headfirst. I'm thirsty for knowledge and would love to learn, well, everything!
+
+By the way, if you've got a job that fits the bill, feel free to contact me! Or if you're up for starting a project together, count me in!
+</p>
+</div>
+
+</div>
+
+## my skill set
 
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
