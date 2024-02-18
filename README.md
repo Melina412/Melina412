@@ -1,12 +1,15 @@
 # hi
 
+
 <div style="display: grid; grid-template-columns: 1fr 2fr; gap: 20px">
-    <div>
-        <img src="https://media1.tenor.com/m/qNje02cITKkAAAAd/hi-goat.gif" alt="hi" style="width:100%; border-radius: 10px" >
-    </div>
-    <div>
-    <h3>✨ Welcome to my GitHub page 💫 </h3>
-        <p>
+
+![hi](https://media1.tenor.com/m/qNje02cITKkAAAAd/hi-goat.gif) 
+
+    
+
+  <div style="grid-column: 2/3; grid-row: 1/2;">
+  <h3>✨ Welcome to my GitHub page 💫 </h3>
+  <p>
 I've been diving into the world of programming for about a year now, and I'm excited to say I recently became a certified MERN Full Stack Developer. Currently, I'm on the lookout for opportunities in Web Development and/or Data.
 
 While I can handle both ends of the stack, I must confess: I've got a soft spot for the server. There's just something about it that clicks with me more than frontend work.
