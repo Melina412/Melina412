@@ -1,37 +1,44 @@
-# hi
+<h3 align="center" bgcolor="pink">✨💫✨ </br></br>Welcome to my GitHub profile </br></br>✨✨</h3>
 
-<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 20px">
+<div align="center">
+	<img align="center" src="https://github.com/Melina412/Melina412/blob/main/goat.gif?raw=true" width="200"/>	
+</div>
+</br></br>
 
-![hi](https://media1.tenor.com/m/qNje02cITKkAAAAd/hi-goat.gif)     
-
-  <div style="grid-column: 2/3; grid-row: 1/2;">
-  <h3>✨ Welcome to my GitHub page 💫 </h3>
-  <p>
-I've been diving into the world of programming for about a year now, and I'm excited to say I recently became a certified MERN Full Stack Developer. Currently, I'm on the lookout for opportunities in Web Development and/or Data.
-
+<div align="justify">
+	<p>I've been diving into the world of programming for about a year now, and I'm excited to say I recently became a certified MERN Full Stack Developer. Currently, I'm on the lookout for opportunities in Web Development and/or Data.
+	
 While I can handle both ends of the stack, I must confess: I've got a soft spot for the server. There's just something about it that clicks with me more than frontend work.
-</p>
-</div>
-
-<div style="grid-column: 1/3">
-
-<p>Before my deep dive into full stack development, I dabbled a bit in Python, igniting my passion for programming and data analysis/data science. Ideally, I'd love to dive deeper into machine learning/AI, but hey, we're taking it one step at a time, right?
-
-Speaking of stepping into new territories, cybersecurity has always intrigued me, even though I'm a total noob here 😅 
-
+	
+Before my deep dive into full stack development, I dabbled a bit in Python, igniting my passion for programming and data analysis/data science. Ideally, I'd love to dive deeper into machine learning/AI, but hey, we're taking it one step at a time, right?
+	
+Speaking of stepping into new territories, cybersecurity has always intrigued me, even though I'm a total noob here 😅
+	
 Right now, I'm knee-deep in exploring Numpy and Pandas, and soon I'll be proudly flashing a certificate for mastering the basics.
-
+	
 Apart from that I continue to learn new skills in web development through a group project, where we're exploring TypeScript and Next.js to build our first app with those.
-
+	
 I'm always up for learning new technologies – seriously, throw anything my way, and I'll dive in headfirst. I'm thirsty for knowledge and would love to learn, well, everything!
+	
+By the way, if you've got a job that fits the bill, feel free to contact me! Or if you're up for starting a project together, count me in!</p> 
+<div/>	
+</br></br>
 
-By the way, if you've got a job that fits the bill, feel free to contact me! Or if you're up for starting a project together, count me in!
-</p>
+<div id="stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Melina412&theme=material-palenight&show_icons=true&hide_border=false&count_private=true" width="500"/>
 </div>
 
+<div id="streak" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melina412&theme=material-palenight&hide_border=false" width="500"/>
 </div>
 
-## my skill set
+<div id="languages" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melina412&theme=material-palenight&show_icons=true&hide_border=false&layout=donut&langs_count=10" width="400"/>
+</div>
+
+
+
+## My stack
 
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
