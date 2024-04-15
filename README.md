@@ -9,7 +9,7 @@
 ## My skill stack
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,mongodb,express,react,nodejs,git,github,githubactions,docker,npm,sass,tailwind,netlify,vite,vscode,jest,figma,apple,discord,notion,twitter,anaconda,pycharm,webstorm,sublime,windows&perline=10" /></br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,mongodb,express,react,nodejs,git,github,githubactions,docker,npm,sass,tailwind,netlify,vite,vscode,jest,figma,apple,discord,notion,twitter,anaconda,pycharm,webstorm,sublime,windows&perline=10" alt="list of skills" title="html,css,javascript,typescript,python,mongodb,express,react,nodejs,git,github,githubactions,docker,npm,sass,tailwind,netlify,vite,vscode,jest,figma,apple,discord,notion,twitter,anaconda,pycharm,webstorm,sublime,windows"/></br>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/0ed1571c-e3df-4f34-94df-102c0afbdb2b" alt="Strapi" title="Strapi"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
