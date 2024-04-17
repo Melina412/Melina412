@@ -6,7 +6,7 @@
 </h1>
 </br></br>
 
-## My skill stack
+## Skill stack
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,mongodb,express,react,nodejs,git,github,githubactions,docker,npm,sass,tailwind,netlify,vite,vscode,jest,figma,apple,discord,notion,twitter,anaconda,pycharm,webstorm,sublime,windows&perline=10" alt="html, css, javascript, typescript, python, mongodb, express, react, nodejs ,git, github, githubactions, docker, npm, sass, tailwind, netlify, vite, vscode, jest,figma, apple, discord, notion, twitter, anaconda, pycharm, webstorm, sublime, windows" title="html, css, javascript, typescript, python, mongodb, express, react, nodejs ,git, github, githubactions, docker, npm, sass, tailwind, netlify, vite, vscode, jest,figma, apple, discord, notion, twitter, anaconda, pycharm, webstorm, sublime, windows"/></br>
@@ -15,11 +15,35 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
 </div>
 
-## Basics & currently learning more
+## Basic knowledge & currently learning
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=next,vue,postgres,prisma,fastapi,flask,django" alt="next, vue, postgres, prisma, fastapi, flask, django" title="next, vue, postgres, prisma, fastapi, flask, django" />
 </div>
+
+## Project Portfolio
+### 🚧 🚧 🚧 🪚👷🏻‍♀️🛠️ 🚧 🚧 🚧
+
+**notice 17.04.2024:**</br>
+**this section is temporarily under construction.**</br>
+brand new layout will arrive in a few days.</br>
+in the meantime, pls scroll down to pinned repositories for projects ⬇️
+
+
+## Stats
+
+<div id="stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Melina412&theme=material-palenight&show_icons=true&hide_border=false&count_private=true" width="500"/>
+</div>
+
+<div id="streak" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melina412&theme=material-palenight&hide_border=false" width="500"/>
+</div>
+
+<div id="languages" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melina412&theme=material-palenight&show_icons=true&hide_border=false&layout=donut&langs_count=10" width="400"/>
+</div>
+
 
 ## About me
 
@@ -42,19 +66,6 @@ By the way, if you've got a job that fits the bill, feel free to contact me! Or 
 <div/>	
 </br></br>
 
-## Stats
-
-<div id="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melina412&theme=material-palenight&show_icons=true&hide_border=false&count_private=true" width="500"/>
-</div>
-
-<div id="streak" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melina412&theme=material-palenight&hide_border=false" width="500"/>
-</div>
-
-<div id="languages" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melina412&theme=material-palenight&show_icons=true&hide_border=false&layout=donut&langs_count=10" width="400"/>
-</div>
 
 ## Contact info
 
