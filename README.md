@@ -44,6 +44,10 @@ in the meantime, pls scroll down to pinned repositories for projects ⬇️
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melina412&theme=material-palenight&show_icons=true&hide_border=false&layout=donut&langs_count=10" width="400"/>
 </div>
 
+<div id="visitors" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Melina412&style=plastic&color=bd88e4&label=visitor+counter" width="100"/>
+</div>
+
 
 ## About me
 
