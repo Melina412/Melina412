@@ -24,10 +24,197 @@
 ## Project Portfolio
 ### 🚧 🚧 🚧 🪚👷🏻‍♀️🛠️ 🚧 🚧 🚧
 
-**notice 17.04.2024:**</br>
-**this section is temporarily under construction.**</br>
-brand new layout will arrive in a few days.</br>
-in the meantime, pls scroll down to pinned repositories for projects ⬇️
+**notice 03.05.2024:**</br>
+**this section is still under construction.**</br>
+more projects will be listed here soon.</br>
+in the meantime, pls scroll down to pinned repositories ⬇️ </br>
+or navigate to the ☆Stars tab to see lists of projects.
+
+<div align="center"><table><tbody>
+<tr>
+
+<!--# 1. Reihe  ----------------------------------- -->
+<td align="center">
+<table>
+<tr>
+Full Stack
+</tr>
+</table>
+</td>
+
+<!--$ 1. Spalte --------------------------------------- -->
+<td align="center">
+<!-- link zum projekt -->
+ <a href="https://github.com/MariaRiosNavarro/toktok_backend/tree/mergeMain" target="_blank">
+ <table><tr>
+ <th>
+ <!-- Projektname -->
+ <div align="center"><img src="https://img.shields.io/badge/tok%20tok-black?style=for-the-badge&logo=javascript" /></div>
+ </th></tr>
+
+ <tr><td>
+ <!-- Beschreibung & Farbe -->
+ <div align="center"><img src="https://img.shields.io/badge/social%20media%20app-242836?style=for-the-badge" /></div>
+ </td></tr>
+
+<!-- stack badges -->
+ <tr><td>
+ <div align="center"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=plastic&logo=MongoDB&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/Express-000000.svg?style=plastic&logo=Express&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=plastic&logo=React&logoColor=black" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/Node.js-339933.svg?style=plastic&logo=nodedotjs&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/Tailwind-06B6D4.svg?style=plastic&logo=Tailwind-CSS&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=plastic&logo=DaisyUI&logoColor=white" />
+</div>
+
+ </td></tr></table></a></td>
+
+<!--$ 2. Spalte --------------------------------------- -->
+<td align="center">
+ <!-- link zum projekt -->
+ <a href="https://github.com/Melina412/PERN_todo-app" target="_blank">
+ <table><tr>
+ <th>
+ <!-- Projektname -->
+ <div align="center"><img src="https://img.shields.io/badge/PERN%20ToDo-black?style=for-the-badge&logo=javascript" /></div>
+ </th></tr>
+
+ <tr><td>
+ <!-- Beschreibung & Farbe -->
+ <div align="center"><img src="https://img.shields.io/badge/Todo%20app-242836?style=for-the-badge&logoColor=black" /></div>
+ 
+ 
+ </td></tr>
+
+<!-- stack badges -->
+ <tr><td>
+ <div align="center"><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=plastic&logo=postgresql&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/Express-000000.svg?style=plastic&logo=Express&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=plastic&logo=React&logoColor=black" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/Node.js-339933.svg?style=plastic&logo=nodedotjs&logoColor=white" /></div>
+  <div align="center"><img src="https://img.shields.io/badge/Tailwind-06B6D4.svg?style=plastic&logo=Tailwind-CSS&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=plastic&logo=DaisyUI&logoColor=white" />
+ <div align="center"> </div>
+ </td></tr></table></a></td>
+
+<!--$ 3. Spalte --------------------------------------- -->
+<td align="center">
+<!-- link zum projekt -->
+ <a href="https://github.com/Melina412/Bootsverleih" target="_blank">
+ <table><tr>
+ <th>
+ <!-- Projektname -->
+ <div align="center"><img src="https://img.shields.io/badge/bootsverleih-black?style=for-the-badge&logo=javascript" /></div>
+ </th></tr>
+
+ <tr><td>
+ <!-- Beschreibung & Farbe -->
+ <div align="center"><img src="https://img.shields.io/badge/boat%20rental-242836?style=for-the-badge" /></div>
+ </td></tr>
+
+ <!-- stack badges -->
+ <tr><td>
+  <div align="center"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=plastic&logo=MongoDB&logoColor=white" /></div>
+  <div align="center"><img src="https://img.shields.io/badge/Express-000000.svg?style=plastic&logo=Express&logoColor=white" /></div>
+  <div align="center"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=plastic&logo=React&logoColor=black" /></div>
+  <div align="center"><img src="https://img.shields.io/badge/Node.js-339933.svg?style=plastic&logo=nodedotjs&logoColor=white" /></div>
+  <div align="center"><img src="https://img.shields.io/badge/Sass-CC6699.svg?style=plastic&logo=Sass&logoColor=white" /></div>
+ </td></tr></table></a></td>
+
+</tr>
+
+<tr>
+<!--# 2. Reihe  ----------------------------------- -->
+<td align="center">
+<table>
+<tr>
+Full Stack
+</tr>
+</table>
+</td>
+
+<!--$ 1. Spalte --------------------------------------- -->
+<td align="center">
+<!-- link zum projekt -->
+ <a href="https://github.com/Melina412/doctor-appointments" target="_blank">
+ <table><tr>
+ <th>
+ <!-- Projektname -->
+ <div align="center"><img src="https://img.shields.io/badge/doctor%20appointments-black?style=for-the-badge&logo=javascript" /></div>
+ </th></tr>
+
+ <tr><td>
+ <!-- Beschreibung & Farbe -->
+ <div align="center"><img src="https://img.shields.io/badge/appointment%20booking%20-242836?style=for-the-badge" /></div>
+ </td></tr>
+
+<!-- stack badges -->
+ <tr><td>
+ <div align="center"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=plastic&logo=MongoDB&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/Express-000000.svg?style=plastic&logo=Express&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=plastic&logo=React&logoColor=black" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/Node.js-339933.svg?style=plastic&logo=nodedotjs&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=Docker&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/Sass-CC6699.svg?style=plastic&logo=Sass&logoColor=white" /></div>
+
+ </td></tr></table></a></td>
+
+<!--$ 2. Spalte --------------------------------------- -->
+
+
+<!--$ 3. Spalte --------------------------------------- -->
+
+
+</tr>
+
+
+<!--# 3. Reihe  ----------------------------------- -->
+<tr>
+<td align="center">
+<table>
+<tr>
+Frontend
+</tr>
+</table>
+</td>
+
+<!--$ 1. Spalte --------------------------------------- -->
+<td align="center">
+ <!-- link zum projekt -->
+ <a href="https://github.com/Melina412/Tasty" target="_blank">
+ <table><tr>
+ <th>
+ <!-- Projektname -->
+ <div align="center"><img src="https://img.shields.io/badge/tasty-black?style=for-the-badge&logo=javascript" /></div>
+ </th></tr>
+
+ <tr><td>
+ <!-- Beschreibung & Farbe -->
+ <div align="center"><img src="https://img.shields.io/badge/recipe%20app-242836?style=for-the-badge" /></div>
+ 
+ 
+ </td></tr>
+
+<!-- stack badges -->
+ <tr><td>
+ <div align="center"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=plastic&logo=React&logoColor=black" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/CSS%20Modules-000000.svg?style=plastic&logo=CSS-Modules&logoColor=white" /></div>
+ <div align="center"><p></p></div>
+ <div align="center"> </div>
+ <div align="center"> </div>
+ </td></tr></table></a></td>
+
+
+
+<!--$ 2. Saplte --------------------------------------- -->
+
+
+<!--$ 3. Spalte --------------------------------------- -->
+
+
+
+</tr>
+</tbody></table></div>
 
 
 ## Stats
@@ -73,4 +260,4 @@ By the way, if you've got a job that fits the bill, feel free to contact me! Or 
 
 ## Contact info
 
-<a href="mailto:melina.webdev@gmail.com">Send me an Email</a>
+<a href="mailto:melina.webdev@gmail.com">📧 Send Email </a>
