@@ -160,7 +160,30 @@ Full Stack
  </td></tr></table></a></td>
 
 <!--$ 2. Spalte --------------------------------------- -->
+<td align="center">
+<!-- link zum projekt -->
+ <a href="https://github.com/Melina412/ai-blog-generator" target="_blank">
+ <table><tr>
+ <th>
+ <!-- Projektname -->
+ <div align="center"><img src="https://img.shields.io/badge/ai%20blog%20generator-black?style=for-the-badge&logo=python" /></div>
+ </th></tr>
 
+ <tr><td>
+ <!-- Beschreibung & Farbe -->
+ <div align="center"><img src="https://img.shields.io/badge/yt%20video%20to%20blog%20article-242836?style=for-the-badge&logoColor=black" /></div>
+ </td></tr>
+ 
+<!-- stack badges -->
+ <tr><td>
+ <div align="center"><img src="https://img.shields.io/badge/Django-092E20.svg?style=plastic&logo=Django&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=plastic&logo=postgresql&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/AssemblyAI-2048cb?style=plastic" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/OpenAI-412991.svg?style=plastic&logo=OpenAI&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=plastic&logo=HTML5&logoColor=white" /></div>
+ <div align="center"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=plastic&logo=Tailwind-CSS&logoColor=white" /></div>
+
+ </td></tr></table></a></td>
 
 <!--$ 3. Spalte --------------------------------------- -->
 
