@@ -6,25 +6,62 @@
 </h1>
 </br></br>
 
-## Skill stack
+I'm Melina, a Full Stack Web Developer. I started coding full time about a year ago so I'm at junior level. <br>
+Currently I'm open to job offers, if you're interested in working me I'd gladly hear from you <a href="mailto:melina.webdev@gmail.com"> (⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄  📧 Send Email </a>
+<br>
+<br>
+## MY TECH STACK
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,mongodb,express,react,nodejs,git,github,githubactions,docker,npm,sass,tailwind,netlify,vite,vscode,jest,figma,apple,discord,notion,twitter,anaconda,pycharm,webstorm,sublime,windows&perline=10" alt="html, css, javascript, typescript, python, mongodb, express, react, nodejs ,git, github, githubactions, docker, npm, sass, tailwind, netlify, vite, vscode, jest,figma, apple, discord, notion, twitter, anaconda, pycharm, webstorm, sublime, windows" title="html, css, javascript, typescript, python, mongodb, express, react, nodejs ,git, github, githubactions, docker, npm, sass, tailwind, netlify, vite, vscode, jest,figma, apple, discord, notion, twitter, anaconda, pycharm, webstorm, sublime, windows"/></br>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
-	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/0ed1571c-e3df-4f34-94df-102c0afbdb2b" alt="Strapi" title="Strapi"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+### Main stack 〰〰〰 #MERN
+
+This is what I can do best and feel most comfortable with. I built many projects and solved various kinds of problems what gave me the chance to obtain deeper knowledge. I'm continously using these technologies to improve myself and keep up with news.
+
+<div align="center" title="javascript, HTML, CSS, sass, tailwind, mongodb, express, react, node, npm, mongoose, REST, git">
+    <img height="50" src="https://skillicons.dev/icons?i=js,html,css,sass,tailwind" alt="javascript,html,css,sass,tailwind"/>
+    <br>
+    <img height="50" src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,npm&perline=5" alt="mongodb,express,react,nodejs,npm" />
+    <br>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="mongoose"/>
+    <img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest api" title=""/>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" />
 </div>
+<br>
 
-## Basic knowledge & currently learning
+---
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=next,vue,postgres,prisma,fastapi,flask,django" alt="next, vue, postgres, prisma, fastapi, flask, django" title="next, vue, postgres, prisma, fastapi, flask, django" />
+### Basic knowledge
+
+I used the basics of these technologies a few times and know how to work with them in a project.
+
+<div align="center" title="typescript, postgresql, docker, jest, github actions, figma, strapi">
+    <img src="https://skillicons.dev/icons?i=typescript,postgres,next,docker,jest,githubactions,figma" alt="next, postgres, jest, githubactions, figma" />
+    <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/0ed1571c-e3df-4f34-94df-102c0afbdb2b" alt="Strapi" />
+</div>
+<br>
+
+---
+
+### Secondary stack
+
+The tools here are what I got into just because I enjoy learning them, but decided not to focus on as a main stack.
+
+I like to work with them regularly and get excited to find out all the things to do with them. If I had the chance to work with these technologies in a future job position though, I'd gladly dive deeper into the topics.
+
+<div align="center" title="python, django, numpy, pandas, jupyter notebook, matplotlib, seaborn">
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python"/>
+    <img width="50" src="https://skillicons.dev/icons?i=django" alt="django"/>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter"/>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" />
+    <img width="50" src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" alt="pandas" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" />
+    <img width="50" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" />
+
 </div>
 
 ## Project Portfolio
 ### 🚧 🚧 🚧 🪚👷🏻‍♀️🛠️ 🚧 🚧 🚧
 
-**notice 03.05.2024:**</br>
+**notice**</br>
 **this section is still under construction.**</br>
 more projects will be listed here soon.</br>
 in the meantime, pls scroll down to pinned repositories ⬇️ </br>
@@ -259,28 +296,6 @@ Frontend
 </div>
 
 
-## About me
-
-<div align="justify">
-	<p>I've been diving into the world of programming for about a year now, and I'm excited to say I recently became a certified MERN Full Stack Developer. Currently, I'm on the lookout for opportunities in Web Development and/or Data.
-	
-While I can handle both ends of the stack, I must confess: I've got a soft spot for the server. There's just something about it that clicks with me more than frontend work.
-	
-Before my deep dive into full stack development, I dabbled a bit in Python, igniting my passion for programming and data analysis/data science. Ideally, I'd love to dive deeper into machine learning/AI, but hey, we're taking it one step at a time, right?
-	
-Speaking of stepping into new territories, cybersecurity has always intrigued me, even though I'm a total noob here 😅
-	
-Right now, I'm knee-deep in exploring Numpy and Pandas, and soon I'll be proudly flashing a certificate for mastering the basics.
-	
-Apart from that I continue to learn new skills in web development through a group project, where we're exploring TypeScript and Next.js to build our first app with those.
-	
-I'm always up for learning new technologies – seriously, throw anything my way, and I'll dive in headfirst. I'm thirsty for knowledge and would love to learn, well, everything!
-	
-By the way, if you've got a job that fits the bill, feel free to contact me! Or if you're up for starting a project together, count me in!</p> 
-<div/>	
-</br></br>
-
-
 ## Contact info
 
-<a href="mailto:melina.webdev@gmail.com">📧 Send Email </a>
+<a href="mailto:melina.webdev@gmail.com">📧 Contact me via Email </a>
