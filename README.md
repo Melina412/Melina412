@@ -585,7 +585,7 @@ Frontend
 </div>
 
 <div id="languages" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melina412&theme=material-palenight&show_icons=true&hide_border=false&layout=donut&langs_count=10" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melina412&theme=material-palenight&show_icons=true&hide_border=false&layout=donut&langs_count=6" width="400"/>
 </div>
 
 <div id="visitors" align="center">
