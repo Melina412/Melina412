@@ -577,11 +577,8 @@ Frontend
 ## Stats
 
 <div id="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melina412&theme=material-palenight&show_icons=true&hide_border=false&count_private=true" width="500"/>
-</div>
-
-<div id="streak" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melina412&theme=material-palenight&hide_border=false" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Melina412&theme=material-palenight&show_icons=true&hide_border=false&count_private=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melina412&theme=material-palenight&hide_border=false" height="200" />
 </div>
 
 <div id="languages" align="center">
