@@ -6,8 +6,8 @@
 </h1>
 </br></br>
 
-I'm Melina, a Full Stack Web Developer. I started coding full time about a year ago so I'm at junior level. <br>
-Currently I'm open to job offers, if you're interested in working me I'd gladly hear from you <a href="mailto:melina.webdev@gmail.com"> (⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄  📧 Send Email </a>
+I'm Melina, a Full Stack Web Developer. I started coding full time about a year ago and am currently open for job offers. <br>
+If you're interested in working me I'd gladly hear from you <a href="mailto:melina.webdev@gmail.com"> (⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄  📧 Send Email </a>
 </br></br>
 
 ## MY TECH STACK
