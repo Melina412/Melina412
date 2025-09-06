@@ -6,16 +6,16 @@
 </h1>
 </br></br>
 
-I'm Melina, a Full Stack Web Developer. I started coding full time about two years ago and am currently open for job offers. <br>
-If you're interested in working me I'd gladly hear from you <a href="mailto:melina.webdev@gmail.com"> (⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄  📧 Send Email </a>
+I'm Melina, a Full Stack Web Developer.
+
 </br></br>
 
 ## MY TECH STACK
 
 ### Languages
 
-<div align="center" title="javascript, python">
-<img height="50" src="https://skillicons.dev/icons?i=js,py" alt="javascript, python"/>
+<div align="center" title="javascript, typescript, python">
+<img height="50" src="https://skillicons.dev/icons?i=js,ts,py" alt="javascript,typescript, python"/>
 </div>
 
 ### Main stack
@@ -24,27 +24,26 @@ If you're interested in working me I'd gladly hear from you <a href="mailto:meli
 
 This is what I can do best and feel most comfortable with. I built many projects and solved various kinds of problems what gave me the chance to obtain deeper knowledge. I'm continously using these technologies to improve myself and keep up with news.
 
-<div align="center" title="javascript, HTML, CSS, sass, tailwind, mongodb, express, react, node, npm, mongoose, REST, git">
-    <img height="50" src="https://skillicons.dev/icons?i=ts,nodejs,express,react,mongodb" alt=""/>
+<div align="center" title="nodejs, express, react, mongodb, next.js, HTML, CSS, sass, tailwind, npm, git, github, vite, vitest, jest">
+    <img height="50" src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,nextjs" alt="nodejs, express, react, mongodb, next.js"/>
     <br>
-    <img height="50" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,npm&perline=5" alt="" />
+    <img height="50" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,npm&perline=5" alt="HTML, CSS, sass, tailwind, npm" />
+    <br>
+    <img height="50" src="https://skillicons.dev/icons?i=git,github,vite,vitest,jest&perline=5" alt="git, github, vite, vitest, jest" />
     <br>
     <!-- <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /> -->
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="mongoose"/>
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest api" title=""/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" />
 </div>
 <br>
 
 ---
 
-### Basic knowledge
+### More
 
 I used the basics of these technologies a few times and know how to work with them in a project.
 
-<div align="center" title="nextjs, django, postgresql, docker, jest, github actions, figma, strapi">
-    <img src="https://skillicons.dev/icons?i=next,django,postgres,docker,jest,githubactions,figma" alt="nextjs, django, postgres, docker, jest, githubactions, figma, strapi" />
-    <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/0ed1571c-e3df-4f34-94df-102c0afbdb2b" alt="Strapi" />
+<div align="center" title="django, postgresql, docker, github actions, figma, strapi">
+    <img src="https://skillicons.dev/icons?i=django,postgres,docker,githubactions,figma" alt="django, postgres, docker, githubactions, figma" />
+    <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/0ed1571c-e3df-4f34-94df-102c0afbdb2b" alt="strapi" />
 </div>
 <br>
 
@@ -57,10 +56,8 @@ These tools are what I got into just because I have a strong personal interest i
 I like to work with them regularly and get excited to find out all the things they can do. If I had the chance to work with these technologies in a future job position though, I'd gladly dive deeper into the topics.
 
 <div align="center" title="numpy, pandas, jupyter notebook, matplotlib, seaborn">
-    <!-- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python"/> -->
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" />
-    <!-- <img width="50" src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" alt="pandas" /> -->
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" />
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter"/>
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" />
     <img width="50" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" />
@@ -615,4 +612,4 @@ Frontend
 
 ## Contact info
 
-<a href="mailto:melina.webdev@gmail.com">📧 Contact me via Email </a>
+<a href="mailto:melina.webdev@gmail.com">📧 Contact Email </a>
